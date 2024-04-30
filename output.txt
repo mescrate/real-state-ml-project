@@ -1,0 +1,17 @@
+Output of different model
+
+Linear Regression
+
+Mean : 5.037482786117751
+Scores: 1.059438240560695
+
+Decision Tree Regression
+
+Mean : 4.285709980790404
+Scores: 0.8104950065703465
+
+Random forest regression
+Mean : 3.3465923920489673
+Scores: 0.6988993499482019
+
+as result we will choose Random forest regression
